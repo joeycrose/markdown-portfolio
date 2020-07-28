@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Tour Eiffel](https://www.airtecnics.com/media/8625/Eiffel-Tower-in-Paris.jpg)
